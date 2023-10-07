@@ -6,7 +6,7 @@ This is a project to learn and apply HUman Segmentation an entry level Project t
 
 Pt1- Digital Image Processing - 
 
-Used Library - skimage
+   Used:  Library - skimage
    
    1.1  Edge Detector - Soble 
          Built in function to detect Edges for identification of human
