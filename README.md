@@ -3,6 +3,8 @@ Human Segmentation Project
 
 This is a project to learn and apply HUman Segmentation an entry level Project to Computer Vision(CV)
 
+DataSet : https://files.is.tuebingen.mpg.de/classner/up/#datasets
+         UP S-31 Dataset is used - it conatins 3 set of 8k+ images  
 
 Pt1- Digital Image Processing - 
 
